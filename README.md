@@ -40,7 +40,8 @@ A tabela final construída neste projeto está na camada **Gold**, com granulari
 ```
 📁 projeto-olist/
 │
-├── 📓 notebook_apresentavel_olist.ipynb   # Notebook principal (pipeline e transformação)
+├── 📓 Notebook 1 - Tratamento da Base.ipynb   # Notebook principal (pipeline e transformação)
+├── 📓 Notebook 2 - Analises   # Notebook voltado as analises 
 ├── 📄 README.md                          # Documentação do projeto
 ```
 
@@ -48,7 +49,7 @@ A tabela final construída neste projeto está na camada **Gold**, com granulari
 
 ## 🔄 Pipeline de Transformação
 
-O notebook realiza as seguintes etapas:
+O Notebook 1 - Tratamento da Base realiza as seguintes etapas:
 
 ### 1. Carregamento dos Dados
 
@@ -107,6 +108,7 @@ A tabela final é salva em formato **Delta**, permitindo:
 * Escalabilidade
 * Integração com ferramentas analíticas
 
+E tambem em formato CSV.
 ---
 
 ## 📊 Possibilidades de Análise
@@ -145,13 +147,13 @@ A tabela final permite diversas análises estratégicas:
 1. Clone o repositório:
 
 ```
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/Kaetano-Rodrigues/Kaetano-Rodrigues-Tech_Challege_fase1
 ```
 
 2. Abra o notebook:
 
 ```
-notebook_apresentavel_olist.ipynb
+Notebook 1 - Tratamento da Base.ipynb
 ```
 
 3. Execute as células sequencialmente
