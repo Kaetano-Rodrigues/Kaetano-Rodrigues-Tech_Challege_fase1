@@ -40,8 +40,8 @@ A tabela final construída neste projeto está na camada **Gold**, com granulari
 ```
 📁 projeto/
 │
-├── 📁 Notebooks # Pasta onde contem os Notebooks utilizados
-├── 📁 data   # Pasta onde se concentram os arquivos utilizados 
+├── 📁 Notebooks -> Pasta onde contem os Notebooks utilizados
+├── 📁 data   -> Pasta onde se concentram os arquivos utilizados 
 ├── 📄 README.md                          # Documentação do projeto
 ```
 
