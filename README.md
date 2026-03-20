@@ -38,10 +38,10 @@ A tabela final construída neste projeto está na camada **Gold**, com granulari
 ## 📂 Estrutura do Projeto
 
 ```
-📁 projeto-olist/
+📁 projeto/
 │
-├── 📓 Notebook 1 - Tratamento da Base.ipynb   # Notebook principal (pipeline e transformação)
-├── 📓 Notebook 2 - Analises   # Notebook voltado as analises 
+├── 📁 Notebooks # Pasta onde contem os Notebooks utilizados
+├── 📁 data   # Pasta onde se concentram os arquivos utilizados 
 ├── 📄 README.md                          # Documentação do projeto
 ```
 
