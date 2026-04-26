@@ -1,4 +1,4 @@
-# 📊 Projeto de Engenharia e Análise de Dados — E-commerce (Olist)
+# 📊 Projeto de Engenharia e Análise de Dados — E-commerce
 
 ## 📌 Visão Geral
 
@@ -30,8 +30,6 @@ A tabela final construída neste projeto está na camada **Gold**, com granulari
 * Python (Pandas)
 * SQL (quando aplicável)
 * Databricks (ambiente de processamento)
-* Delta Lake
-* Power BI (consumo analítico)
 
 ---
 
@@ -167,7 +165,6 @@ Notebook 1 - Tratamento da Base.ipynb
 * Construção de dashboards no Power BI
 * Implementação de métricas de churn
 * Modelos preditivos (ex: previsão de entrega)
-* Otimização de frete por região
 
 ---
 
