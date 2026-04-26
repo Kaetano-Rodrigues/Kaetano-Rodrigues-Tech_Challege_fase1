@@ -171,15 +171,6 @@ Notebook 1 - Tratamento da Base.ipynb
 
 ---
 
-## 👨‍💻 Autor
-
-**Kaetano Rodrigues**
-Engenheiro de Computação | Data Engineer | BI
-
-* Python | SQL | Power BI | Azure | Databricks
-
----
-
 ## 📄 Licença
 
 Este projeto é de uso educacional e para portfólio.
